@@ -9,3 +9,7 @@
 function print_label(){
     echo "i`m test git";
 }
+
+function aki_print_label(){
+    echo "i`m aki test git";
+}
