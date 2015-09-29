@@ -13,3 +13,7 @@ function print_label(){
 function aki_print_label(){
     echo "i`m aki test git";
 }
+
+
+print_label();
+aki_print_label();
