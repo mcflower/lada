@@ -17,3 +17,5 @@ function aki_print_label(){
 
 print_label();
 aki_print_label();
+
+echo '1';
